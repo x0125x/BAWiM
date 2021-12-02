@@ -1,3 +1,20 @@
 - Znaleźć wartość Coins w save
 - Uzyskać dostęp do kodu gry za pomocą narzędzia dnSpy, po czym znaleźć wartości klucza i wektora inicjalizacji
 - Za pomocą klucza i iv odszyfrować zaszyfrowany plik zapisów, po czym zmienić wartość coins i zaszyfrować z powrotem (sprawdzić czy się udało)
+
+Zadanie 1
+Uzyskaj dostęp do pliku zapisu gry. Wykorzystaj narzędzie dnSpy. 
+W jaki sposób zabezpieczono plik? 
+Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.
+
+Zadanie 2
+Wykorzystując znaleziony wektor inicjalizacyjny oraz klucz zmień wartość zmiennej coins. 
+Podmień plik zapisu i sprawdź poprawność dokonanych zmian.
+
+Zadanie 3
+Jaki był kod przed obfuskacją? Napisz działający odpowiednik programu:
+<insert image here>
+
+Zadanie 4
+Znajdź liczbę, o którą prosi program <nazwa pliku>.
+
