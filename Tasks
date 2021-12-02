@@ -1,0 +1,2 @@
+1) Uzyskać dostęp do kodu gry za pomocą narzędzia dnSpy, po czym znaleźć wartości klucza i wektora inicjalizacji
+2) Za pomocą klucza i iv odszyfrować zaszyfrowany plik zapisów, po czym zmienić wartość coins i zaszyfrować z powrotem (sprawdzić czy się udało)
