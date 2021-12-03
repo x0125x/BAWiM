@@ -1,4 +1,4 @@
-# Zadania z projektu
+# Zadania z projektu *(Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources)*
 #### Bezpieczeństwo aplikacji webowych i mobilnych
 *prowadzący:* Heorhi Kupryianau, Patrycja Nędza
 
