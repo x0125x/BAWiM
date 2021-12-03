@@ -1,4 +1,5 @@
-# Zadania z projektu *(Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources)*
+# Zadania z projektu 
+*(Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources)*
 #### Bezpieczeństwo aplikacji webowych i mobilnych
 *prowadzący:* Heorhi Kupryianau, Patrycja Nędza
 
@@ -6,7 +7,7 @@
 
 #### Zadanie 1
 - Rozpakuj DestroyIt.apk
-- Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll w dnSpy *(program znajdziesz w folderze Resources)*
+- Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll w dnSpy
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
