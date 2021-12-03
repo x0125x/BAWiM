@@ -11,8 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
-3.  W jaki sposób są zabiezpieczone pliki zapisów?
-4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.
+3.  W jaki sposób są zabiezpieczone pliki zapisów?:alien:
+4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.:alien:
 
 #### Zadanie 2
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
