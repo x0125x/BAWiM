@@ -1,17 +1,18 @@
-# Zadanie 1 # Uzyskaj dostęp do pliku zapisu gry. Wykorzystaj narzędzie dnSpy.
-(Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll)
+#### Zadanie 1 
+  -Uzyskaj dostęp do pliku zapisu gry. Wykorzystaj narzędzie dnSpy.
+  -(Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll)
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
-W jaki sposób zabezpieczono plik? Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.
+  -W jaki sposób zabezpieczono plik? Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.
 
-# Zadanie 2
+#### Zadanie 2
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
 Podmień plik zapisu i sprawdź poprawność dokonanych zmian.
 
-# Zadanie 3
+#### Zadanie 3
 Jaki był kod przed obfuskacją? Napisz działający odpowiednik programu.
 ![alt text](https://github.com/x0125x/BAWiM/blob/main/zadanie%203.png)
 
-# Zadanie 4
+#### Zadanie 4
 Znajdź liczbę, o którą prosi program Hackme.exe
