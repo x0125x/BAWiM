@@ -17,7 +17,10 @@
 4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.:japanese_ogre:
 
 #### Zadanie 2
-1.  Zainstaluj DestroyIt.apk na 
+1.  Utwórz urządzenie wirtualne android w Android Studio
+2.  Zainstaluj DestroyIt.apk na urządzeniu wirtualnym
+3.  Otwórz i zamknij zainstalowaną przed chwilą grę, by dane się zapisały
+4.  Przenieś plik ****
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
 Podmień plik zapisu i sprawdź poprawność dokonanych zmian.
 
