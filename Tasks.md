@@ -2,13 +2,15 @@
 #### Bezpieczeństwo aplikacji webowych i mobilnych
 *prowadzący:* Heorhi Kupryianau, Patrycja Nędza
 
+## Sposoby przechowywania i przetwarzania danych w aplikacjach mobilnych oraz zagrożenia z tym związane 
+
 #### Zadanie 1 
-  -Uzyskaj dostęp do pliku zapisu gry. Wykorzystaj narzędzie dnSpy.
-  -(Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll)
+Uzyskaj dostęp do pliku zapisu gry. Wykorzystaj narzędzie dnSpy.
+(Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll)
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
-  -W jaki sposób zabezpieczono plik? Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.
+W jaki sposób zabezpieczono plik? Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.
 
 #### Zadanie 2
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
