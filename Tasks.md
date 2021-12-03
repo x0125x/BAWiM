@@ -3,7 +3,7 @@
 *prowadzący:* Heorhi Kupryianau, Patrycja Nędza
 
 ## Sposoby przechowywania i przetwarzania danych w aplikacjach mobilnych oraz zagrożenia z tym związane 
-##### *(Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources)*
+##### Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources
 
 #### Zadanie 1
 - Rozpakuj DestroyIt.apk
