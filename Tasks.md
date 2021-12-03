@@ -4,7 +4,7 @@
 
 ## Sposoby przechowywania i przetwarzania danych w aplikacjach mobilnych oraz zagrożenia z tym związane 
 ##### Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources
-##### Odpowiedzi na podpunkty z :alien: trzeba umieścić na Upelu
+##### Odpowiedzi na podpunkty z :japanese_ogre: trzeba umieścić na Upelu
 ##
 #### Zadanie 1
 1.  Rozpakuj DestroyIt.apk
@@ -12,8 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
-3.  W jaki sposób są zabiezpieczone pliki zapisów?:alien:
-4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.:alien:
+3.  W jaki sposób są zabiezpieczone pliki zapisów?:japanese_ogre:
+4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.:japanese_ogre:
 
 #### Zadanie 2
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
