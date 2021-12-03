@@ -1,6 +1,6 @@
 # Zadania z projektu
 #### Bezpieczeństwo aplikacji webowych i mobilnych
-*prowadzące:* Heorhi Kupryianau, Patrycja Nędza
+*prowadzący:* Heorhi Kupryianau, Patrycja Nędza
 
 #### Zadanie 1 
   -Uzyskaj dostęp do pliku zapisu gry. Wykorzystaj narzędzie dnSpy.
