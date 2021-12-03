@@ -4,6 +4,7 @@
 
 ## Sposoby przechowywania i przetwarzania danych w aplikacjach mobilnych oraz zagrożenia z tym związane 
 ##### Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources
+##### Odpowiedzi na pytania z :alien: na końcu trzeba umieścić na Upelu
 ##
 #### Zadanie 1
 1.  Rozpakuj DestroyIt.apk
