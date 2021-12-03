@@ -4,7 +4,7 @@
 
 ## Sposoby przechowywania i przetwarzania danych w aplikacjach mobilnych oraz zagrożenia z tym związane 
 ##### Wszystkie potrzebne programy i pliki znajdziesz w folderze Resources
-
+##
 #### Zadanie 1
 - Rozpakuj DestroyIt.apk
 - Otwórz plik DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll w dnSpy
