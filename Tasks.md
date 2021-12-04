@@ -22,6 +22,7 @@
 3.  Otwórz i ~~zagraj~~ zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__.
 4.  Przenieś plik **`Android>data>com.GameCompany.DestroyIt>files>save`** do **`Downloads`** (bez root'a nie ma dostępu do **`Android>data`**).
 5.  Otwórz **`save`** za pomocą **`AES256`**.
+
     ![image](https://user-images.githubusercontent.com/52840109/144723227-cfff48df-8b59-44d9-9db3-5ef476971fa1.png)
     -   Deszyfruj dane za pomocą informacji uzyskanych w **`Zadaniu 1`** (powinien się pojawić plik **`decrypted`**).
 6.  Otwórz **`decrypted`** w dowolnym hex edytorze. 
