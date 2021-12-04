@@ -17,17 +17,18 @@
 4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.:japanese_ogre:
 
 #### Zadanie 2
-1.  Utwórz urządzenie wirtualne android w **`Android Studio`**
-2.  Zainstaluj **`DestroyIt.apk`** na urządzeniu wirtualnym
-3.  Otwórz i ~~zagraj~~ zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__
-4.  Przenieś plik **`Android>data>com.GameCompany.DestroyIt>files>save`** do **`Downloads`** (by mieć możliwość przenieść go na komputer bez root'a)
-5.  Otwórz **`save`** za pomocą **`AES256`**
-    -   Deszyfruj dane za pomocą informacji uzyskanych w **`Zadaniu 1`** (powinien się pojawić plik **`encrypted`**)
-6.  Otwórz **`encrypted`** w dowolnym hex edytorze. 
-    -   Znajdź __*zapomiętaną wartość monet*__ i zamień ją na 65 535 (FF FF)
-7. Zaszyfruj **`encrypted`** za pomocą **`AES256`** (powinien się pojawić plik **`decrypted`**)
-Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
-Podmień plik zapisu i sprawdź poprawność dokonanych zmian.
+1.  Utwórz urządzenie wirtualne android w **`Android Studio`**.
+2.  Zainstaluj **`DestroyIt.apk`** na urządzeniu wirtualnym.
+3.  Otwórz i ~~zagraj~~ zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__.
+4.  Przenieś plik **`Android>data>com.GameCompany.DestroyIt>files>save`** do **`Downloads`** (by mieć możliwość przenieść go na komputer bez root'a).
+5.  Otwórz **`save`** za pomocą **`AES256`**.
+    -   Deszyfruj dane za pomocą informacji uzyskanych w **`Zadaniu 1`** (powinien się pojawić plik **`decrypted`**).
+6.  Otwórz **`decrypted`** w dowolnym hex edytorze. 
+    -   Znajdź __*zapomiętaną wartość monet*__ i zamień ją na 65 535 (FF FF).
+7.  Zaszyfruj **`decrypted`** za pomocą **`AES256`** (powinien się pojawić plik **`encrypted`**).
+8.  Zmień nazwę **`encrypted`** na **`save`** i przenieś go do **`Android>data>com.GameCompany.DestroyIt>files`**.
+    -   By przenieść plik do folderu **`Android>data`** trzeba mieć root, albo można użyć **`Mix`** *(**`Resources>Mix.apk`**)*.
+9.  Sprawdź czy wartość monet się zmieniła.:japanese_ogre:
 
 #### Zadanie 3
 Jaki był kod przed obfuskacją? Napisz działający odpowiednik programu.
