@@ -36,4 +36,5 @@ Jaki był kod przed obfuskacją? Napisz działający odpowiednik programu.
 ![alt text](https://github.com/x0125x/BAWiM/blob/main/zadanie%203.png)
 
 #### Zadanie 4
-Znajdź liczbę, o którą prosi program Hackme.exe
+1.  Otwórz program **`Hackme.exe`**
+2.  Spróbuj zgadnąć liczbę, jeżeli się nie uda, znajdź ją za pomocą inżynierii wstecznej i narzędzia **`Snowman`**:japanese_ogre:
