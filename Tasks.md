@@ -9,7 +9,7 @@
 #### Zadanie 1
 1.  Wykorzystaj Android Studio, by stworzyć wirtualne urządzenie android
 2.  Rozpakuj DestroyIt.apk do AVD
-3.  Otwórz plik `**DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll** w **dnSpy**`
+3.  Otwórz plik **`DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll`** w **`dnSpy`**
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
@@ -20,7 +20,7 @@
 1.  Utwórz urządzenie wirtualne android w Android Studio
 2.  Zainstaluj DestroyIt.apk na urządzeniu wirtualnym
 3.  Otwórz i zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__
-4.  Przenieś plik `**Android>data>com.GameCompany.DestroyIt>files>save** do **Downloads**`
+4.  Przenieś plik **`Android>data>com.GameCompany.DestroyIt>files>save`** do **`Downloads`**
 5.  Przemieść 
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
 Podmień plik zapisu i sprawdź poprawność dokonanych zmian.
