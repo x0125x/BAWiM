@@ -19,7 +19,7 @@
 #### Zadanie 2
 1.  Utwórz urządzenie wirtualne android w Android Studio
 2.  Zainstaluj DestroyIt.apk na urządzeniu wirtualnym
-3.  Otwórz i zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__
+3.  Otwórz ~~pograj~~ i zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__
 4.  Przenieś plik **`Android>data>com.GameCompany.DestroyIt>files>save`** do **`Downloads`**
 5.  Przemieść 
 Wykorzystując znalezione w poprzednim zadaniu informacje zmień wartość zmiennej coins. 
