@@ -15,7 +15,7 @@
 3.  W jaki sposób są zabiezpieczone pliki zapisów?:japanese_ogre:
 4.  Znajdź informacje niezbędne do poprawnego odczytu i edycji pliku.:japanese_ogre:
 
-#### Zadanie 2
+#### Zadanie 2*
 1.  Utwórz urządzenie wirtualne android w **`Android Studio`**.
 2.  Zainstaluj **`DestroyIt.apk`** na urządzeniu wirtualnym.
 3.  Otwórz i ~~zagraj~~ zamknij zainstalowaną przed chwilą grę, by dane się zapisały __*(zapamiętaj wartość monet)*__.
