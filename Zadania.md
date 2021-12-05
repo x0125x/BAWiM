@@ -7,9 +7,8 @@
 ##### Odpowiedzi na podpunkty z :japanese_ogre: trzeba umieścić na Upelu
 ##
 #### Zadanie 1
-1.  Wykorzystaj **`Android Studio`**, by stworzyć wirtualne urządzenie android
-2.  Rozpakuj **`DestroyIt.apk`** do AVD
-3.  Otwórz plik **`DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll`** w **`dnSpy`**
+1.  Rozpakuj **`DestroyIt.apk`**
+2.  Otwórz plik **`DestroyIt>assets>bin>Data>Managed>Assembly-CSharp.dll`** w **`dnSpy`**
 
 ![image](https://user-images.githubusercontent.com/52840109/144683170-0db93078-4d17-4f8d-92fb-8887e8ac2ba4.png)
 
