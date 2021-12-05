@@ -33,8 +33,8 @@
 9.  Sprawdź czy wartość monet się zmieniła.:japanese_ogre:
 
 #### Zadanie 3
-Jaki był kod przed obfuskacją? Napisz działający odpowiednik programu.
-![alt text](https://github.com/x0125x/BAWiM/blob/main/zadanie%203.png)
+1. Co się wypiszę do konsoli w następującym kodzie po obfuskacji?:japanese_ogre:
+![image](https://user-images.githubusercontent.com/52840109/144746394-a2c269a0-669a-4775-9d0f-02433a652e4f.png)
 
 #### Zadanie 4
 1.  Otwórz program **`Hackme.exe`**
