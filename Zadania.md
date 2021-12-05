@@ -33,9 +33,9 @@
 9.  Sprawdź czy wartość monet się zmieniła.:japanese_ogre:
 
 #### Zadanie 3
-1. Co się wypiszę do konsoli w następującym kodzie po obfuskacji?:japanese_ogre:
-![image](https://user-images.githubusercontent.com/52840109/144746394-a2c269a0-669a-4775-9d0f-02433a652e4f.png)
-
-#### Zadanie 4
 1.  Otwórz program **`Hackme.exe`**
 2.  Spróbuj zgadnąć liczbę, jeżeli się nie uda, znajdź ją za pomocą inżynierii wstecznej i narzędzia **`Snowman`**:japanese_ogre:
+
+#### Zadanie 4
+1. Co się wypiszę do konsoli w następującym kodzie po obfuskacji?:japanese_ogre:
+![image](https://user-images.githubusercontent.com/52840109/144746394-a2c269a0-669a-4775-9d0f-02433a652e4f.png)
