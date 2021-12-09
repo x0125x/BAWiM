@@ -1,3 +1,0 @@
-- Znaleźć wartość Coins w save
-- Uzyskać dostęp do kodu gry za pomocą narzędzia dnSpy, po czym znaleźć wartości klucza i wektora inicjalizacji
-- Za pomocą klucza i iv odszyfrować zaszyfrowany plik zapisów, po czym zmienić wartość coins i zaszyfrować z powrotem (sprawdzić czy się udało)
